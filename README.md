@@ -2,7 +2,7 @@
 
 I'm [Your Name], a leaarning beginner dev
 
-<img src="https://github.com/Jstmaul/Jstmaul/blob/main/banger.png" width="50" alt="Rust Logo"> 
+<img src="https://github.com/Jstmaul/Jstmaul/blob/main/banger.png" width="500" height="100" alt="Rust Logo"> 
 
 ## 🚀 About Me
 
