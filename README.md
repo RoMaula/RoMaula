@@ -8,7 +8,8 @@ I'm [Your Name], a leaarning beginner dev
 
 - 💻 **Experienced in:**
 - <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="100" height="100">  <img src="https://logodix.com/logo/1137946.png" width="100" height="100">
-- 🌱 **Currently learning:** Go (Golang) & Rust
+- 🌱 **Currently learning:**
+- <img src="https://static.vecteezy.com/system/resources/previews/012/697/296/original/3d-golang-programming-language-logo-free-png.png" width="100" height="100">
 - 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
 ## 🛠️ My Tech Stack
@@ -16,7 +17,7 @@ I'm [Your Name], a leaarning beginner dev
 - **Languages:** C, C++, Go, Rust
 - **Tools:** Git, Docker, VS Code, [Your Other Tools]
 - **Frameworks/Libraries:** [List relevant ones here]
-
+<!--
 ## 🌟 Current Projects
 
 1. **[Project Name](Link to Project)**
@@ -26,7 +27,7 @@ I'm [Your Name], a leaarning beginner dev
 2. **[Another Project](Link to Project)**
    - Description: Brief description of the project.
    - Tech Stack: Go, Kubernetes
-
+-->
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&hide_border=true&theme=radical)
@@ -40,7 +41,7 @@ I'm [Your Name], a leaarning beginner dev
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Twitter:** [@yourusername](https://twitter.com/yourusername)
-
+<!--
 ## 🎨 Fun Stuff
 
 Here’s a little something to brighten your day:
@@ -50,7 +51,7 @@ Here’s a little something to brighten your day:
 ---
 
 Thanks for stopping by! Feel free to connect with me or check out my projects. 😄
-
+-->
 <!--
 **Jstmaul/Jstmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
