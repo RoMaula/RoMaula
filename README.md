@@ -17,8 +17,7 @@ I'm Maul, a leaarning beginner dev
 ## 🛠️ My Tech Stack
 
 - **Languages:** C, C++, Go, Rust
-- **Tools:** Git, Docker, VS Code, [Your Other Tools]
-- **Frameworks/Libraries:** [List relevant ones here]
+- **Tools:** Git, Docker, VS Code, Neovim, etc
 <!--
 ## 🌟 Current Projects
 
