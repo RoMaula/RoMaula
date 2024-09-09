@@ -1,12 +1,13 @@
 # Hey there! 👋
 
-I'm [Your Name], a passionate developer with a knack for C/C++ and an eagerness to dive into Go and Rust. Welcome to my GitHub profile!
+I'm [Your Name], a leaarning beginner dev
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile) <!-- Replace this with your own banner image -->
 
 ## 🚀 About Me
 
-- 💻 **Experienced in:** C/C++
+- 💻 **Experienced in:** 
+[]()
 - 🌱 **Currently learning:** Go (Golang) & Rust
 - 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
