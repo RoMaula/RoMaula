@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Maul, a leaarning beginner dev. i code through phonec, crazy right?
+I'm Maul, a leaarning beginner dev. i code through a phone, crazy right?
 
 <img src="https://github.com/Jstmaul/Jstmaul/blob/main/banger.png" width="500" height="300" alt="banger"> 
 
