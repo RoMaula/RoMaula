@@ -7,9 +7,9 @@ I'm [Your Name], a leaarning beginner dev
 ## 🚀 About Me
 
 - 💻 **Experienced in:**
-<img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="100" height="100">  <img src="https://logodix.com/logo/1137946.png" width="100" height="100">
+<img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50">  <img src="https://logodix.com/logo/1137946.png" width="50" height="50">
 - 🌱 **Currently learning:**
-<img src="https://static.vecteezy.com/system/resources/previews/012/697/296/original/3d-golang-programming-language-logo-free-png.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png" width="100" height="100">
+<img src="https://static.vecteezy.com/system/resources/previews/012/697/296/original/3d-golang-programming-language-logo-free-png.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png" width="100" height="50">
 - 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
 ## 🛠️ My Tech Stack
