@@ -2,7 +2,7 @@
 
 I'm [Your Name], a leaarning beginner dev
 
-![Profile Banner](https://github.com/Jstmaul/Jstmaul/banger.png) <!-- Replace this with your own banner image -->
+![Profile Banner]([https://github.com/Jstmaul/Jstmaul/banger.png](https://github.com/Jstmaul/Jstmaul/blob/main/banger.png)) <!-- Replace this with your own banner image -->
 
 ## 🚀 About Me
 
