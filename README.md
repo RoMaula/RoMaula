@@ -39,9 +39,9 @@ I'm Maul, a leaarning beginner dev
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Email:** [gmail](mailto:maunadhif1@gmail.com)
+- **LinkedIn:** [currently doesn't have](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [private](https://twitter.com/yourusername)
 <!--
 ## 🎨 Fun Stuff
 
