@@ -2,7 +2,7 @@
 
 I'm [Your Name], a leaarning beginner dev
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png" width="50" alt="Rust Logo"> 
+<img src="https://github.com/Jstmaul/Jstmaul/blob/main/banger.png" width="50" alt="Rust Logo"> 
 
 ## 🚀 About Me
 
