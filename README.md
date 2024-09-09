@@ -7,8 +7,7 @@ I'm [Your Name], a leaarning beginner dev
 ## 🚀 About Me
 
 - 💻 **Experienced in:**
--
-- <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="100" height="100"> <img src="https://logodix.com/logo/1137946.png" width="100" height="100">
+- <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="100" height="100">  <img src="https://logodix.com/logo/1137946.png" width="100" height="100">
 - 🌱 **Currently learning:** Go (Golang) & Rust
 - 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
