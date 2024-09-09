@@ -39,7 +39,7 @@ I'm Maul, a leaarning beginner dev
 
 ## 📫 How to Reach Me
 
-- **Email:** [gmail](mailto:maunadhif1@gmail.com)
+- **Email:** [maunadhif1@gmail.com](mailto:maunadhif1@gmail.com)
 - **LinkedIn:** [currently doesn't have](https://www.linkedin.com/in/yourprofile)
 - **Twitter:** [private](https://twitter.com/yourusername)
 <!--
