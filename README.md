@@ -7,8 +7,8 @@ I'm [Your Name], a leaarning beginner dev
 ## 🚀 About Me
 
 - 💻 **Experienced in:** 
-![C lang](https://github.com/Jstmaul/Jstmaul/blob/main/clang.png)
-![Cpp lang](https://github.com/Jstmaul/Jstmaul/blob/main/cpplang.png)
+<img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="400" height="300" alt="Cool GIF">
+<img src="[https://github.com/yourusername/yourrepo/raw/main/assets/your-gif.gif](https://logodix.com/logo/1137946.png)" width="400" height="300" alt="Cool GIF">
 - 🌱 **Currently learning:** Go (Golang) & Rust
 - 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
