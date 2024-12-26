@@ -1,18 +1,8 @@
 # Hey there! 👋
 
-I'm Maul, a leaarning beginner dev. i code through a phone, crazy right?
-
-<img src="https://github.com/Jstmaul/Jstmaul/blob/main/banger.png" width="500" height="300" alt="banger"> 
+I'm Maulana
 
 ## 🚀 About Me
-
-- 💻 **Experienced in:**
-  <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="20" alt="C++ Logo"> 
-  <img src="https://logodix.com/logo/1137946.png" width="20" alt="C Logo">
-- 🌱 **Currently learning:**
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/296/original/3d-golang-programming-language-logo-free-png.png" width="20" alt="Golang Logo"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/440px-Rustacean-orig-noshadow.svg.png" width="20" alt="Rust Logo">
-- 💡 **Future Goals:** Master modern programming languages, contribute to open-source projects, and build cool stuff!
 
 ## 🛠️ My Tech Stack
 
